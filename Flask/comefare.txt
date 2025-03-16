@@ -1,0 +1,6 @@
+Aprire un terminale anaconda e digitare e andare sulla cartella Desktop
+- git clone https://github.com/andrearaieta/Materiale_Corso_Python
+- git checkout Flask per cambiare branch
+- python -m venv venv
+- .\venv\Scripts\activate  # Per attivare l'ambiente virtuale
+pip install -r requirements # Per installare le librerie necessarie dal file requirements.txt
